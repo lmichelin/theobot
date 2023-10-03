@@ -1,6 +1,6 @@
 ## Theobot
 
-[![GitHub Actions status](https://github.com/lmichelin/theobot/workflows/CI/badge.svg)](https://github.com/lmichelin/theobot/actions)
+[![GitHub Actions status](https://github.com/lmichelin/theobot/actions/workflows/main.yml/badge.svg)](https://github.com/lmichelin/theobot/actions)
 
 A Slack bot for Theodo to help new theodoers breaking the ice.
 
@@ -20,6 +20,7 @@ $ yarn start
 $ yarn start:debug
 
 # production mode
+$ yarn build
 $ yarn start:prod
 ```
 
